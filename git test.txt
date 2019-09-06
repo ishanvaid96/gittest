@@ -1,0 +1,2 @@
+Testing the git with cmd and uploading the code to Github
+this is hte second line
